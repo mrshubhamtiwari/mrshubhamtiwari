@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shubham Tiwari</h1>
-<h3 align="center">Experienced developer specializing in business application development with a strong proficiency in Power Platform tools, including PowerApps and Power Automate (Flow). Adept at deploying applications across diverse environments using Azure DevOps CI/CD pipelines. Leveraged SPFx, ReactJS, and TypeScript to design tailored web parts for SharePoint online sites. Empowered automation by designing and implementing PowerShell scripts for a range of business processes. Well-versed in an array of tools including JIRA, Git, SQL Server Management Studio (SSMS), Azure Portal, and DevOps Portal.</h3>
-
-### Blogs posts
+<ol>
+  <li>Developed numerous business applications using Power Platform tools such as PowerApps and Power Automate (Flow).</li>
+  <li>Successfully deployed applications across multiple environments utilizing Azure DevOps CI/CD pipelines.</li>
+  <li>Utilized SPFx with ReactJS and TypeScript to create custom web parts for SharePoint online sites.</li>
+  <li>Created multiple PowerShell scripts to automate various business processes.</li>
+  <li>Proficient in tools like:
+    <ul>
+      <li>JIRA</li>
+      <li>Git</li>
+      <li>SQL Server Management Studio (SSMS)</li>
+      <li>Azure Portal</li>
+      <li>DevOps Portal</li>
+    </ul>
+  </li>
+</ol>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
