@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Tiwari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Experienced developer specializing in business application development with a strong proficiency in Power Platform tools, including PowerApps and Power Automate (Flow). Adept at deploying applications across diverse environments using Azure DevOps CI/CD pipelines. Leveraged SPFx, ReactJS, and TypeScript to design tailored web parts for SharePoint online sites. Empowered automation by designing and implementing PowerShell scripts for a range of business processes. Well-versed in an array of tools including JIRA, Git, SQL Server Management Studio (SSMS), Azure Portal, and DevOps Portal.</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
